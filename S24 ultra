@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Samsung Galaxy S24 Ultra Blog</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f2f2f2;
+      color: #333;
+    }
+    header {
+      background-color: #000;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      background-color: white;
+      padding: 20px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+      margin: 20px 0;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    p {
+      line-height: 1.6;
+    }
+    footer {
+      text-align: center;
+      background-color: #000;
+      color: white;
+      padding: 15px;
+      font-size: 14px;
+    }
+
+    /* Responsive Design */
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 24px;
+      }
+      h2 {
+        font-size: 20px;
+      }
+      .container {
+        padding: 15px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      header h1 {
+        font-size: 20px;
+      }
+      p {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Samsung Galaxy S24 Ultra</h1>
+    <p>The Next Evolution in Smartphone Technology</p>
+  </header>
+
+  <div class="container">
+    <h2>📱 Design & Display</h2>
+    <img src="file-XEGmiztzeY3ZekqQ4XYJxq" alt="Samsung Galaxy S24 Ultra Design" />
+    <p>The Samsung Galaxy S24 Ultra stands out with its premium titanium build and elegant flat design. The 6.8" QHD+ AMOLED display offers vibrant colors and extreme brightness for a stunning viewing experience.</p>
+
+    <h2>📸 Real-Life Look</h2>
+    <img src="file-CdBCuuhqAMRk4f6vfWx7o2" alt="Samsung S24 Ultra in Use" />
+    <p>The phone feels sleek and futuristic in hand. The punch-hole display and edge-to-edge screen make it ideal for streaming, gaming, and multitasking on the go.</p>
+
+    <h2>🧠 Powered by Galaxy AI</h2>
+    <img src="file-6nDEKbJZxanvBrsJ3hDXgj" alt="Galaxy AI Features S24 Ultra" />
+    <p>The S24 Ultra comes loaded with Galaxy AI, transforming how you communicate and create. Features like real-time translation, AI photo editing, and smart summarization make everyday tasks easier and faster.</p>
+
+    <h2>✅ Final Verdict</h2>
+    <p>If you want the best of what Android offers in 2025, the Galaxy S24 Ultra is hard to beat. It excels in design, display, performance, and innovation—making it worth every rupee.</p>
+  </div>
+
+  <footer>
+    &copy; 2025 | Galaxy S24 Ultra Blog | All rights reserved.
+  </footer>
+
+</body>
+</html>
